@@ -59,7 +59,7 @@ body {
     justify-content: flex-start;
     padding-top: 20px;
     margin-top: 60px;
-    width: 460px;
+    width: 530px;
 
 }
 @media (max-width: 1000px) {
@@ -71,11 +71,30 @@ body {
 
     }
 }
-.caja-estrellas {
+.primera {
     background-color:#F7F2F7;
     margin: 8px;
-    padding: 20px 15px 20px 0px;
+    padding: 20px 8px 20px 0px;
     margin-left: 0px;
+    margin-right: 98px;
+}
+
+.segunda {
+    background-color:#F7F2F7;
+    margin: 8px;
+    padding: 20px 8px 20px 0px;
+    margin-left: 50px;
+    margin-right: 58px;
+
+
+}
+
+.tercera {
+    background-color:#F7F2F7;
+    margin: 8px;
+    padding: 20px 8px 20px 0px;
+    margin-left: 90px;
+    margin-right: 18px;
 
 }
 .contenedor-clientes {
@@ -102,7 +121,8 @@ body {
     background-color: #512051;
     border-radius: 5%;
     color: white;
-    margin: 30px 20px;
+    margin-left: 18px;
+    margin-right: 18px;
     padding: 40px 35px;
 
 }
@@ -114,7 +134,18 @@ body {
     }
 }
 
-
+.colton {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.irene {
+    margin-top: 40px;
+    margin-bottom: 40px; 
+}
+.anne {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
 .attribution {
     margin: 60px;
     font-size: 11px;
